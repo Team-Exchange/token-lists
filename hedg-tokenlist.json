@@ -11,7 +11,7 @@
         "chainId": 1,
         "address": "0x9a323539d87eea58ed6833920cd55d1db6a1c2a3",
         "name": "HEDG",
-        "decimals": 8,
+        "decimals": 18,
         "symbol": "HEDG",
         "logoURI": "https://raw.githubusercontent.com/Team-Exchange/icons/master/HEDG.png"
       },
