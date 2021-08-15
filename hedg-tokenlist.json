@@ -9,7 +9,7 @@
   "tokens": [
       {
         "chainId": 1,
-        "address": "0x9a323539d87eea58ed6833920cd55d1db6a1c2a3",
+        "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
         "name": "HEDG",
         "decimals": 18,
         "symbol": "HEDG",
@@ -17,31 +17,10 @@
       },
       {
         "chainId": 1,
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6
-      },
-      {
-        "chainId": 1,
-        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
-        "decimals": 8
-      },
-      {
-        "chainId": 1,
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 6
-      },
-      {
-        "chainId": 1,
-        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "symbol": "DAI",
-        "name": "Dai Stablecoin",
-        "decimals": 18
       }
   ],
   "logoURI": "https://raw.githubusercontent.com/Team-Exchange/icons/master/HEDG.png"
