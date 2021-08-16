@@ -20,7 +20,8 @@
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "symbol": "USDT",
         "name": "Tether",
-        "decimals": 6
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/Team-Exchange/icons/master/Tether-logo.png"
       }
   ],
   "logoURI": "https://raw.githubusercontent.com/Team-Exchange/icons/master/HEDG.png"
