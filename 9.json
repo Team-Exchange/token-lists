@@ -1,0 +1,7 @@
+{
+    "description": "T.E.A.M Player",
+    "name": "wTeam",
+    "external_link": "https://marketplace.team-exchange.com",
+    "image": "https://team-v2.vercel.app/images/animated-loader.gif",
+    "contract_address":"0x84aa9158d13bb4eb73c9a2ced05a01b9d5a7deb9"
+}
